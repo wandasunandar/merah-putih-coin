@@ -1,0 +1,14 @@
+{
+  "name": "Merah Putih Coin",
+  "symbol": "MPC",
+  "description": "Token Merah Putih Coin di jaringan Solana.",
+  "image": "https://raw.githubusercontent.com/wandasunandar/merah-putih-coin/main/logo.png",
+  "extensions": {
+    "website": "https://github.com/wandasunandar/merah-putih-coin"
+  },
+  "tags": [
+    "token",
+    "solana",
+    "merahputih"
+  ]
+}
